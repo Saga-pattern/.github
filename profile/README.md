@@ -2,7 +2,7 @@
 ## This is a hypothetical organization functioning as a company. This organization is established solely to simulate the workings of the Saga pattern in the "place order" use case. 
 
 ### The overview image of the Orchestration implementation:
-![flow-success](,/flow-success.png)
+image:./flow-success.png[]
 </br>
 "Here is an overview image of the order successfully."
 
